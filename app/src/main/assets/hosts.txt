@@ -1,0 +1,3 @@
+# Sample AdBlock List
+127.0.0.1 doubleclick.net
+127.0.0.1 google-analytics.com
